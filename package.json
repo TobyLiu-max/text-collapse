@@ -1,0 +1,15 @@
+{
+  "name": "text-collapse",
+  "version": "1.0.0",
+  "description": "用于长文本的优化展示，支持按照宽度、字符个数等方式优化展示",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "liuzhifu",
+  "license": "ISC"
+}
